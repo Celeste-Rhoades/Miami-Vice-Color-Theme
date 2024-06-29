@@ -1,0 +1,21 @@
+{
+  "name": "miami-vice-color-theme",
+  "displayName": "Miami Vice Color Theme",
+  "description": "Miami Vice Electric Color Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Miami Vice Electric Color Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Miami Vice Electric Color Theme-color-theme.json"
+      }
+    ]
+  }
+}
