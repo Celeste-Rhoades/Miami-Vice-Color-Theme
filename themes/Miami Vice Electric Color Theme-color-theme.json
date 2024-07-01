@@ -14,7 +14,7 @@
 		 "editorBracketHighlight.foreground6": "#18eece",
 		 "editorBracketHighlight.unexpectedBracket.foreground": "#f9aab7",
 		 "editorLineNumber.foreground": "#00eeff",
-		
+		"editorLineNumber.activeForeground": "#ff8ad2",
 		 "activityBar.foreground":"#00eeff",
 		 "activityBar.border":"#a5ff86",
 		 "activityBar.background":"#000",
@@ -50,7 +50,8 @@
 		"statusBarItem.remoteForeground": "#ff6bc6",
 		"statusBarItem.remoteBackground": "#000",
 		"gitDecoration.modifiedResourceForeground": "#b4ff9b",
-		"list.focusHighlightForeground": "#ff0000"
+		"textLink.foreground": "#045ded",
+		"textLink.activeForeground": "#c498f9",
 		
 		
 		 
@@ -65,7 +66,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#00efff"
+				"foreground": "#808080"
 			}
 		},
 		{
@@ -268,6 +269,7 @@
 			"settings": { "foreground": "#ff82cf" }
 		  },
 		{ "scope": "string", "settings": { "foreground": "#c28fff" } },
+		
 		{
 			"name": "Class, Support",
 			"scope": [

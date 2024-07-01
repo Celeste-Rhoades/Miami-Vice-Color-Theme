@@ -3,6 +3,7 @@
   "displayName": "Miami Vice Color Theme",
   "description": "Miami Vice Electric Color Theme",
   "version": "0.0.1",
+  "publisher": "CelesteDesigns",
   "engines": {
     "vscode": "^1.90.0"
   },
