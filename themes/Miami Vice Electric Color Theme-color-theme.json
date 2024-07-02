@@ -1,11 +1,12 @@
 {
 	"name": "Miami Vice Electric Color Theme",
 	"colors": {
-		"editor.background": "#161a1b",
+		"editor.background": "#171616",
 		"editor.foreground": "#fff",
 		"activityBarBadge.background": "#045ded",
 		"sideBarTitle.foreground": "#ff82cf",
 		 "sideBar.foreground": "#00efff",
+		 "sideBar.background": "#131212",
 		 "sideBarSectionHeader.foreground":"#fff",
 		 "editorBracketHighlight.foreground1": "#3da0f1",
 		 "editorBracketHighlight.foreground2": "#70d6ff",
@@ -16,6 +17,7 @@
 		 "editorBracketHighlight.unexpectedBracket.foreground": "#f9aab7",
 		 "editorLineNumber.foreground": "#00eeff",
 		"editorLineNumber.activeForeground": "#ff8ad2",
+		"editorGroupHeader.tabsBackground": "#171616",
 		 "activityBar.foreground":"#00eeff",
 		 "activityBar.border":"#a5ff86",
 		 "activityBar.background":"#000",
