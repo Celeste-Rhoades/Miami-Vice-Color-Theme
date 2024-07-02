@@ -42,6 +42,7 @@
 		"panelTitle.inactiveForeground":"#00eeff",
 		"panelTitle.activeBorder":"#a5ff86",
 		"titleBar.activeForeground":"#00efff",
+		"titleBar.activeBackground": "#000",
 		"terminal.border":"#a5ff86",
 		"breadcrumb.foreground": "#cdffbd",
 		"statusBar.foreground":"#ff8ad2",
