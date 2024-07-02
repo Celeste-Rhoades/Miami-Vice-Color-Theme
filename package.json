@@ -4,6 +4,20 @@
   "description": "Miami Vice Electric Color Theme",
   "version": "0.0.1",
   "publisher": "CelesteDesigns",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Celeste-Rhoades/Miami-Vice-Color-Theme"
+  },
+  "keywords": [
+    "Miami Vice",
+    "miami vice",
+    "bright colors",
+    "Neon colors",
+    "neon",
+    "dark theme",
+    "electric colors"
+    
+  ],
   "engines": {
     "vscode": "^1.90.0"
   },

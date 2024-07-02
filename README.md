@@ -1,16 +1,16 @@
-# miami-vice-color-theme README
+# Miami Vice Vs Code Theme
 
-## Working with Markdown
+Simple overview of use/purpose.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Description
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+An in-depth paragraph about your project and overview of use.
 
-## For more information
+## Getting Started
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Authors
 
-**Enjoy!**
+Contributors names and contact info
+
+Celeste Rhoades
+ex. [GitHub](https://github.com/Celeste-Rhoades/Miami-Vice-Color-Theme)

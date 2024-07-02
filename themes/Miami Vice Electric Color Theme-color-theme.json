@@ -2,10 +2,11 @@
 	"name": "Miami Vice Electric Color Theme",
 	"colors": {
 		"editor.background": "#263238",
-		"editor.foreground": "#ff82cf",
+		"editor.foreground": "#fff",
 		"activityBarBadge.background": "#045ded",
 		"sideBarTitle.foreground": "#ff82cf",
 		 "sideBar.foreground": "#00efff",
+		 "sideBarSectionHeader.foreground":"#fff",
 		 "editorBracketHighlight.foreground1": "#3da0f1",
 		 "editorBracketHighlight.foreground2": "#70d6ff",
 		 "editorBracketHighlight.foreground3": "#c0f8af",
@@ -20,7 +21,6 @@
 		 "activityBar.background":"#000",
 		 "activityBar.activeFocusBorder":"#ff8ad2",
 		 "activityBar.inactiveForeground":"#ff8ad2",
-		 "sideBarSectionHeader.foreground":"#00eeff",
 		 "sideBar.border":"#a5ff86",
 		 "sideBarSectionHeader.border": "#ff8ad2",
 		 "sideBarActivityBarTop.border": "#ff8ad2",
@@ -42,7 +42,7 @@
 		"panelTitle.activeForeground":"#ff8ad2",
 		"panelTitle.inactiveForeground":"#00eeff",
 		"panelTitle.activeBorder":"#a5ff86",
-		"titleBar.activeForeground":"#ff8ad2",
+		"titleBar.activeForeground":"#00efff",
 		"terminal.border":"#a5ff86",
 		"breadcrumb.foreground": "#cdffbd",
 		"statusBar.foreground":"#ff6bc6",
@@ -50,8 +50,8 @@
 		"statusBarItem.remoteForeground": "#ff6bc6",
 		"statusBarItem.remoteBackground": "#000",
 		"gitDecoration.modifiedResourceForeground": "#b4ff9b",
-		"textLink.foreground": "#045ded",
-		"textLink.activeForeground": "#c498f9",
+		"textLink.foreground": "#00eeff",
+		"textLink.activeForeground": "#ff8ad2",
 		
 		
 		 
