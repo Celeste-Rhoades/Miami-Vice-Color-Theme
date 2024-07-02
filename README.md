@@ -1,6 +1,6 @@
 # Miami Vice Vs Code Theme
 
-![image of code colors](/image/screenshot.png)
+![image of code colors](/./Images/screenshot.png)
 
 ## Description
 
