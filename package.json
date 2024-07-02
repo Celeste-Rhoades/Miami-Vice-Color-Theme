@@ -2,9 +2,11 @@
   "name": "miami-vice-color-theme",
   "displayName": "Miami Vice Color Theme",
   "description": "Miami Vice Electric Color Theme",
-  "icon": "/images/MiamiViceTheme.png",
+  "icon": "images/MiamiViceTheme.png",
   "version": "0.0.1",
   "publisher": "CelesteDesigns",
+  "license": "MIT",
+  "author": "Celeste",
   "repository": {
     "type": "git",
     "url": "https://github.com/Celeste-Rhoades/Miami-Vice-Color-Theme"
