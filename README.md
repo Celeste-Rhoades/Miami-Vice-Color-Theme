@@ -1,4 +1,4 @@
-# Miami Vice Vs Code Theme
+# Miami Vice VS Code Theme
 
 ![image of code colors](/./Images/screenshot.png)
 

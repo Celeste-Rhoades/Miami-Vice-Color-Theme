@@ -28,13 +28,12 @@
 		 "editorGroupHeader.tabsBorder": "#00eeff",
 		 "tab.border": "#ff8ad2",
 		 "tab.activeForeground": "#ff8ad2",
-		 "editor.findMatchBackground": "#3ff2ff",
 		 "tab.inactiveForeground": "#00eeff",
 		 "tab.activeBorderTop": "#00eeff",
 		"button.background":"#ae6dfd",
-		"dropdown.listBackground": "#3ff2ff",
+		"dropdown.listBackground": "#000",
 		"dropdown.border":"#3ff2ff" ,
-		"dropdown.foreground": "#ff8ad2",
+		"dropdown.foreground": "#fff",
 		"checkbox.border": "#a5ff86",
 		"input.foreground": "#ff8ad2",
 		"panel.border":"#00eeff",
@@ -44,6 +43,8 @@
 		"titleBar.activeForeground":"#00efff",
 		"titleBar.activeBackground": "#000",
 		"terminal.border":"#a5ff86",
+		"terminal.background": "#000",
+		"terminal.selectionBackground": "#000",
 		"breadcrumb.foreground": "#cdffbd",
 		"statusBar.foreground":"#ff8ad2",
 		"statusBar.background":"#000",
@@ -52,10 +53,14 @@
 		"gitDecoration.modifiedResourceForeground": "#b4ff9b",
 		"textLink.foreground": "#00eeff",
 		"textLink.activeForeground": "#ff8ad2",
-		"textPreformat.foreground": "#bd8bf9"
+		"textPreformat.foreground": "#bd8bf9",
+		"editor.rangeHighlightBackground": "#66000000",
+		"editor.selectionHighlightBackground": "#66000000",
+		
+	},
 		
 		 
-	},
+	
 
 	"tokenColors": [
 		{
@@ -69,6 +74,12 @@
 				"foreground": "#808080"
 			}
 		},
+		{
+			
+			"scope": "source.ts", "settings": {"foreground": "#ff8ad2"},
+			
+			},
+	
 		{
 			"scope": [
 				"contrastActiveBorder",
@@ -194,7 +205,7 @@
 		},
 		{
 			"scope": "entity.name.function",
-			"settings": { "foreground": "#cdffbd"  }
+			"settings": { "foreground": "#a5ff86"  }
 		  },
 		{
 			"scope": "variable.language",
@@ -294,7 +305,7 @@
 				"foreground": "#acd4e3"
 			}
 		},
-		{ "scope": "support.type", "settings": { "foreground": "#b0fa9a" } },
+		{ "scope": "support.type", "settings": { "foreground": "#a5ff86" } },
 		{
 			"name": "CSS Class and Support",
 			"scope": [
