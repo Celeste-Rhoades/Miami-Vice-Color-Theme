@@ -59,24 +59,24 @@
 		"editor.rangeHighlightBackground": "#3b3b3b6d",
 		"editor.selectionHighlightBackground": "#3b3b3b6d",
 		"editor.findMatchHighlightBackground": "#3b3b3b6d" ,
-		"scrollbarSlider.background": "#1b1a1a6d",
+		"scrollbarSlider.background": "#3b3b3b6d",
 	},
 		
 		 
 	
 
 	"tokenColors": [
-		{
-			"name": "Comment",
-			"scope": [
-				"comment",
-				"punctuation.definition.comment"
-			],
-			"settings": {
-				"fontStyle": "italic",
-				"foreground": "#808080"
-			}
-		},
+		// {
+		// 	"name": "Comment",
+		// 	"scope": [
+		// 		"comment",
+		// 		"punctuation.definition.comment"
+		// 	],
+		// 	"settings": {
+		// 		"fontStyle": "italic",
+		// 		"foreground": "#808080"
+		// 	}
+		// },
 		{
 			
 			"scope": "source.ts", "settings": {"foreground": "#ff8ad2"},
