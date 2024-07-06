@@ -58,8 +58,8 @@
 		"textPreformat.foreground": "#bd8bf9",
 		"editor.rangeHighlightBackground": "#3b3b3b6d",
 		"editor.selectionHighlightBackground": "#3b3b3b6d",
-		"editor.findMatchHighlightBackground": "#3b3b3b6d" 
-		
+		"editor.findMatchHighlightBackground": "#3b3b3b6d" ,
+		"scrollbarSlider.background": "#1b1a1a6d",
 	},
 		
 		 
