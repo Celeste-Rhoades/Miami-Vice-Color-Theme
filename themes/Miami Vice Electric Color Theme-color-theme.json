@@ -155,11 +155,12 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#ca44ff"
+				"foreground": "#ff6bc6"
 			}
 		},
 		{ "scope": "keyword", "settings": { "foreground": "#ffac7b" } },
 		{ "scope": "support.type.object.module.js", "settings": { "foreground": "#ffffaa" } },
+		{ "scope": "support.variable.property.js", "settings": { "foreground": "#ff6bc6" } },
 		{
 			"scope": "keyword.control.condtional",
 			"settings": { "foreground": "#88c2f5" }
