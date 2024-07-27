@@ -83,6 +83,7 @@
 				"foreground": "#72bec1df"
 			}
 		},
+		
 		{
 			
 			"scope": "source.ts", "settings": {"foreground": "#ff8ad2"},
@@ -791,6 +792,8 @@
 			"settings": {
 				"foreground": "#EEFFFF"
 			}
-		}
+		},
+		
+		
 	]
 }
