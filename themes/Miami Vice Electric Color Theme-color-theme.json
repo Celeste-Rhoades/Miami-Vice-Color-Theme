@@ -46,7 +46,6 @@
 		"titleBar.activeBackground": "#000",
 		"terminal.border":"#a5ff86",
 		"terminal.background": "#000",
-		"terminal.selectionBackground": "#000",
 		"breadcrumb.foreground": "#cdffbd",
 		"statusBar.foreground":"#ff8ad2",
 		"statusBar.background":"#000",
