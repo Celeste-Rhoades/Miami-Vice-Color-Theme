@@ -56,7 +56,7 @@
 		"gitDecoration.renamedResourceForeground" : "#ca44ff" ,
 		"gitDecoration.stageModifiedResourceForeground" : "#ffac7b",
 		"gitDecoration.untrackedResourceForeground" :"#ffffaa",
-		"gitDecoration.ignoredResourceForeground" : "#18eece",
+		"gitDecoration.ignoredResourceForeground" : "#d2d2d2",
 		"textLink.foreground": "#00eeff",
 		"textLink.activeForeground": "#ff8ad2",
 		"textPreformat.foreground": "#bd8bf9",
@@ -82,6 +82,7 @@
 				"foreground": "#72bec1df"
 			}
 		},
+	
 		
 		{
 			
